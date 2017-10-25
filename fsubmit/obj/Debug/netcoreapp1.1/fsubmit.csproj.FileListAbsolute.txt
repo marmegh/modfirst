@@ -1,0 +1,8 @@
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\bin\Debug\netcoreapp1.1\fsubmit.deps.json
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\bin\Debug\netcoreapp1.1\fsubmit.runtimeconfig.json
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\bin\Debug\netcoreapp1.1\fsubmit.runtimeconfig.dev.json
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\bin\Debug\netcoreapp1.1\fsubmit.dll
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\bin\Debug\netcoreapp1.1\fsubmit.pdb
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\obj\Debug\netcoreapp1.1\fsubmit.AssemblyInfo.cs
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\obj\Debug\netcoreapp1.1\fsubmit.dll
+C:\Users\marym\Documents\Dojo\netCore\mvcExplore\modfirst\fsubmit\obj\Debug\netcoreapp1.1\fsubmit.pdb
