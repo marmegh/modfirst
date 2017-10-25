@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+@using fsubmit.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model fsubmit.Models.Register
+
+
+<form asp-controller = "Login" asp-action="login" method = "POST">
+    <h5>
+        <label asp-for="Email"></label>
+        <input asp-for="Email"/>
+        <span asp-validation-for="Email"></span>
+    </h5>
+    <h5>        
+        <label asp-for="Password"></label>
+        <input asp-for="Password"/>
+        <span asp-validation-for="Password"></span>
+    </h5>
+    <button type="submit">Login</button>
+</form>

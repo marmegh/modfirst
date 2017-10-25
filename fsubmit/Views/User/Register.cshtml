@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+@using fsubmit.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model fsubmit.Models.Register
+
+
+<form asp-controller = "Register" asp-action="registering" method = "POST">
+    <h5>
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName"/>
+        <span asp-validation-for="FirstName"></span>
+    </h5>
+    <h5>
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName"/>
+        <span asp-validation-for="LastName"></span>
+    </h5>
+    <h5>
+        <label asp-for="Email"></label>
+        <input asp-for="Email"/>
+        <span asp-validation-for="Email"></span>
+    </h5>
+    <h5>        
+        <label asp-for="Password"></label>
+        <input asp-for="Password"/>
+        <span asp-validation-for="Password"></span>
+    </h5>
+    <h5>        
+        <label asp-for="PWC"></label>
+        <input asp-for="PWC"/>
+        <span asp-validation-for="PWC"></span>
+    </h5>
+    <button type="submit">Create new User</button>
+</form>
